@@ -1,0 +1,30 @@
+C:\Projects\TrySomething\TrySomething\TrySomething\bin\Debug\TrySomething.exe.config
+C:\Projects\TrySomething\TrySomething\TrySomething\bin\Debug\TrySomething.exe
+C:\Projects\TrySomething\TrySomething\TrySomething\bin\Debug\TrySomething.pdb
+C:\Projects\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.csprojResolveAssemblyReference.cache
+C:\Projects\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.csproj.CoreCompileInputs.cache
+C:\Projects\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.exe
+C:\Projects\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.pdb
+C:\Projects\TrySomething\TrySomething\bin\Debug\TrySomething.exe.config
+C:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.exe
+C:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.pdb
+C:\Projects\TrySomething\TrySomething\bin\Debug\TrySomething.exe
+C:\Projects\TrySomething\TrySomething\bin\Debug\TrySomething.pdb
+C:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.csprojResolveAssemblyReference.cache
+D:\Projects\TrySomething\TrySomething\bin\Debug\TrySomething.exe.config
+D:\Projects\TrySomething\TrySomething\bin\Debug\TrySomething.exe
+D:\Projects\TrySomething\TrySomething\bin\Debug\TrySomething.pdb
+D:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.csprojAssemblyReference.cache
+D:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.csproj.CoreCompileInputs.cache
+D:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.exe
+D:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.pdb
+D:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.Form1.resources
+D:\Projects\TrySomething\TrySomething\obj\Debug\TrySomething.csproj.GenerateResource.cache
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\bin\Debug\TrySomething.exe.config
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\bin\Debug\TrySomething.exe
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\bin\Debug\TrySomething.pdb
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.Form1.resources
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.csproj.GenerateResource.cache
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.csproj.CoreCompileInputs.cache
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.exe
+C:\Users\Dolgikh Family\Downloads\TrySomething\TrySomething\TrySomething\obj\Debug\TrySomething.pdb
